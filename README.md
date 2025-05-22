@@ -12,7 +12,7 @@
 - :school: I am a Full Stack Web developer
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a coder
-- :student: I’m currently learning: 'Robotics and Python'
+- :student: I’m currently learning: 'ML and CP'
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1-ZaYx5YcdDuObxPa9Uk92z3GUop5zciB/view?usp=sharing). 
 - :nerd_face: Always `learning new things`
 
