@@ -9,9 +9,9 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Full Stack Web developer
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a coder
+- :school: I am a Mern Stack Web developer and an ML Developer
+- :technologist: I love using logic and math as a solution for every `Problem`
+- :computer: I am a programmeer
 - :student: I’m currently learning: 'ML and CP'
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,this is [MY RESUME](https://drive.google.com/file/d/1-ZaYx5YcdDuObxPa9Uk92z3GUop5zciB/view?usp=sharing). 
 - :nerd_face: Always `learning new things`
@@ -42,7 +42,18 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
+### 👉 ML Tools
 
+<p align="center">  
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23F7DF1E.svg?style=plastic&logo=tensorflow&logoColor=blue">
+   </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="ScikitLearn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=blue">
+  </a>
+</p>
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
