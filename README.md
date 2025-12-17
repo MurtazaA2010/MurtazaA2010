@@ -21,5 +21,7 @@
 	<a href="https://github.com/MurtazaA2010"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a target=__blank href="https://www.linkedin.com/in/murtaza-abdullah-a815a8280/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurtazaA2010&show_icons=true&theme=tokyonight)
+
 
 
