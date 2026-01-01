@@ -12,6 +12,7 @@
 - :school: Working hard toward the IOI and IOAI — I love solving challenging algorithmic problems.
 - :technologist: I love using logic and math as a solution for every `Problem`
 - :student: I’m currently learning: 'ML and CP'- :nerd_face: Always `learning new things`
+- :entrepreneur: I’m currently Building phiai.com
 
 <br>
 
