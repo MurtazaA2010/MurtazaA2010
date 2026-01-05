@@ -53,4 +53,4 @@
 
 ---
 
-⭐ *“Focus on fundamentals. Excellence follows.”*
+⭐ *“Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, and all there ever will be to know and understand”*
