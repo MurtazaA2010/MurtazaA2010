@@ -12,11 +12,43 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Student & Olympiad Aspirant** — Preparing for **IOI** and **IOAI**, driven by challenging algorithmic problems  
-- 🧠 **Problem Solver** — I enjoy applying **logic, mathematics, and algorithms** to real-world problems  
-- 🤖 **Currently Learning** — Competitive Programming & Machine Learning  
-- 🚀 **Builder** — Founder & developer of **TinkersLab.org**  
-- 📚 **Mindset** — Always curious, always learning, always improving  
+- 🎓 **Student & Olympiad Aspirant** — Preparing for **IOI** and **IOAI**
+- 🧠 **Problem Solver** — Strong interest in algorithms, logic, and mathematical thinking
+- 🤖 **Currently Learning** — Competitive Programming & Machine Learning
+- 🚀 **Builder** — Founder & developer of **TinkersLab.org**
+- 📚 **Mindset** — Always learning, always improving
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+- **C++** (Competitive Programming)
+- **Python** (ML, scripting, automation)
+- **JavaScript** (Web development)
+
+### 🧮 Competitive Programming
+- Data Structures & Algorithms  
+- Time & Space Complexity Analysis  
+- STL & Standard Libraries  
+- Problem Solving (Codeforces-style)
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning  
+- Regression, Classification, Tree-based Models  
+- Data Preprocessing & Feature Engineering  
+- Model Evaluation & Optimization  
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
+- MERN Stack  
+- REST APIs  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Linux & CLI  
+- Jupyter Notebook  
+- VS Code  
 
 ---
 
@@ -36,19 +68,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurtazaA2010&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=MurtazaA2010&theme=tokyonight" height="160"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtazaA2010&layout=compact&theme=tokyonight" height="160"/>
-</div>
-
----
-
-⭐ *“Build skills first — results will follow.”*
+⭐ *“Focus on fundamentals. Excellence follows.”*
