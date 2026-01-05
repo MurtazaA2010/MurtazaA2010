@@ -23,32 +23,17 @@
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages
-- **C++** (Competitive Programming)
-- **Python** (ML, scripting, automation)
-- **JavaScript** (Web development)
+
 
 ### 🧮 Competitive Programming
-- Data Structures & Algorithms  
-- Time & Space Complexity Analysis  
-- STL & Standard Libraries  
-- Problem Solving (Codeforces-style)
+
 
 ### 🤖 Machine Learning
-- Supervised & Unsupervised Learning  
-- Regression, Classification, Tree-based Models  
-- Data Preprocessing & Feature Engineering  
-- Model Evaluation & Optimization  
+
+### 🤖 AI Engineering
+
 
 ### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- MERN Stack  
-- REST APIs  
-
-### ⚙️ Tools & Technologies
-- Git & GitHub  
-- Linux & CLI  
-- Jupyter Notebook  
-- VS Code  
 
 ---
 
