@@ -49,6 +49,12 @@
   <a href="https://www.linkedin.com/in/murtaza-abdullah-a815a8280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://kaggle.com/murtazaabdullah2010" target="_blank">
+    <img src="[https://img.shields.io/badge/Kaggle-0A66C2?style=plastic&logo=linkedin&logoColor=white](https://img.shields.io/badge/Kaggle-0A66C2?style=plastic&logo=linkedin&logoColor=white)" />
+  </a>
+  <a href = "https://codeforces.com/profile/murtazaabdullah2010", target ="_blank>
+    <img src="[https://img.shields.io/badge/Codeforces-0A66C2?style=plastic&logo=linkedin&logoColor=white](https://img.shields.io/badge/Kaggle-0A66C2?style=plastic&logo=linkedin&logoColor=white)"/>
+  </a>
 </p>
 
 ---
