@@ -17,7 +17,7 @@
 - 🎓 **Student & Olympiad Aspirant** — Preparing for **IOI** & **IOAI**
 - 🧠 **Problem Solver** — Algorithms, math & logical thinking
 - 🤖 **Learning Focus** — Competitive Programming & Machine Learning
-- 🚀 **Founder** — Building **TinkersLab.org**
+- 🚀 **Founder** — Building **ThinkersLabe.com**
 - 📚 **Philosophy** — *Consistency beats motivation*
 
 ---
