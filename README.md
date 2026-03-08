@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;IOI+%7C+IOAI+Aspirant&center=true&width=520&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Competitive+Programmer;IOI+%7C+IOAI+Aspirant&center=true&width=520&height=50">
 </p>
 
 <p align="center">
